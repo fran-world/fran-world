@@ -71,3 +71,5 @@ transcribed from the pages I fill while reading.
 - **francasterw@gmail.com**
 
 <sub>Open to roles in autonomy, control and applied AI — especially where the system has to run somewhere real.</sub>
+
+<!-- profile -->
